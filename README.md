@@ -1,4 +1,4 @@
-## Cards and Colors ##
+## Notifications ##
 ## Screenshots ##
 <p float="left">
   <img src="/screenshots/1.png" width="200" />
